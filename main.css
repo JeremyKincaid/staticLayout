@@ -64,7 +64,7 @@ body{
 }
 
 #intro{
-    background: url('../staticLayout/assets/gradient-violet-bg.jpg') no-repeat top left fixed;
+    background: url('./assets/gradient-violet-bg.jpg') no-repeat top left fixed;
     background-size: cover;
     height: 95vh;
     width: 100%;
